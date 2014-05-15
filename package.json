@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/taoyuan/cose",
   "dependencies": {
-    "pkginfo": "^0.3.0",
     "semver": "^2.3.0"
   },
   "devDependencies": {
