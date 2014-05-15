@@ -1,6 +1,6 @@
 {
   "name": "cose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Multi-store Connect Session.",
   "main": "index.js",
   "scripts": {
