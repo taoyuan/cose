@@ -1,6 +1,8 @@
 cose
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/cose.svg)](https://greenkeeper.io/)
+
 Multi-store Connect Session.
 
 ## Getting Started
